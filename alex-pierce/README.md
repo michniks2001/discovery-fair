@@ -1,4 +1,4 @@
-**Alex, Pierce — Infinite RPG Game**
+# **Alex, Pierce — Infinite RPG Game**
 
 **Goal**: Generate infinite quests/stories.
 
